@@ -5,3 +5,7 @@
 /frontend/.env
 /frontend/.env.local
 /frontend/.env.production
+/frontend/.vercel
+.env
+.env.*
+!.env.example
